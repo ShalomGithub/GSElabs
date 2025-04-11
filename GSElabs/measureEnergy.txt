@@ -1,0 +1,11 @@
+
+# Research Log - Energy Consumption Measurements
+
+Date: 10-Apr-2025
+Task: Running energy measurement on script.py
+
+Command to run code:
+$ python3 script.py
+
+Energy consumption measured: 50 Joules
+Notes: The energy usage was higher than expected due to the size of the input data.
